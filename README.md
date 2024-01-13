@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hds07&show_icons=true&locale=en&layout=compact" alt="hds07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hds07&" alt="hds07" /></p>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HDS07" alt="GitHub Streak" /></a>
