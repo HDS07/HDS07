@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Harshdeep Shakya</h1>
-<h3 align="center">I am a 2nd year student of AIML-CSE</h3>
-
+<h3 align="center"><u>WELCOME TO MY GIT-HUB PROFILE</u></h3>
+<img align="right"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width="400px"
+height="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hds07&label=Profile%20views&color=0e75b6&style=flat" alt="hds07" /> </p>
 
-- 📫 How to reach me **hs4205170@gmail.com**
-
+- 📫 <b>You Can Reach Me :-</b> **hs4205170@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshdeep shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeep shakya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshdeep-shakya-02326724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeep shakya" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_.s99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_.s99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hsdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hsdeep" height="30" width="40" /></a>
 </p>
