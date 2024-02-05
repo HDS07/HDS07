@@ -3,8 +3,8 @@
 <img align="right"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width="400px"
 height="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hds07&label=Profile%20views&color=0e75b6&style=flat" alt="hds07" /> </p>
-
-- 📫 <b>You Can Reach Me :-</b> **hs4205170@gmail.com**
+<h4>:- I am currently learning Full Stack Web-development.</h4>
+:- 📫 <b>You Can Reach Me :-</b> **hs4205170@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshdeep-shakya-02326724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeep shakya" height="30" width="40" /></a>
