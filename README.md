@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Harshdeep Shakya</h1>
 <h3 align="center"><u>WELCOME TO MY GIT-HUB PROFILE</u></h3>
-<img align="right"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width="400px"
+<img align="right"src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" width="500px"
 height="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hds07&label=Profile%20views&color=0e75b6&style=flat" alt="hds07" /> </p>
 <h4>:- I am currently learning Full Stack Web-development.</h4>
