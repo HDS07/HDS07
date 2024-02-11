@@ -2,9 +2,8 @@
 <h3 align="center"><u>WELCOME TO MY GIT-HUB PROFILE</u></h3>
 <img align="right" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" width="450px"
 height="450px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hds07&label=Profile%20views&color=0e75b6&style=flat" alt="hds07" /> </p>
 <h4>:- I am currently learning Full Stack Web-development.</h4>
-:- 📫 <b>You Can Reach Me :-</b> **hs4205170@gmail.com**
+:- 📫 <b>You Can Reach Me :-  </b> hs4205170@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshdeep-shakya-02326724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeep shakya" height="30" width="40" /></a>
