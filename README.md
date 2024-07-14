@@ -2,7 +2,7 @@
 <h3 align="center"><u>WELCOME TO MY GIT-HUB PROFILE</u></h3>
 <img align="right" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" width="450px"
 height="450px">
-<h4>:- I am currently learning Full Stack Web-development.</h4>
+<h4>:- I am currently learning DSA.</h4>
 
 - 📫 Email: **hs4205170@gmail.com**
 
