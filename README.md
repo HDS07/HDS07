@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C+World!%22);+%F0%9F%91%8B;I'm+Harshdeep+Shakya+%F0%9F%9A%80;DSA+%26+Backend+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C+World!%22);+%F0%9F%91%8B;I'm+Harshdeep+Shakya+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ---
@@ -31,7 +31,7 @@ public:
   <a href="https://www.linkedin.com/in/harshdeep-shakya-02326724a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/harsh_.s99" target="blank">
+  <a href="https://instagram.com/harshuaa__09" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/HDS07" target="blank">
